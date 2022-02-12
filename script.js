@@ -12,7 +12,7 @@ function result()
 	var a3=document.getElementsByName('q3');
 	var a4=document.getElementsByName('q4');
 	var a5=document.getElementsByName('q5');
-	if(a1[0].checked)
+	if(a1[1].checked)
 	{
 	   count++;
     }
@@ -28,7 +28,7 @@ function result()
 	{
 	   count++;
     }
-    if(a1[0].checked)
+    if(a5[0].checked)
 	{
 	   count++;
     }
